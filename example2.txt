@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+what a what -dducke
+=======
 what a what is the fuck
+>>>>>>> origin/main
+is the fuck
